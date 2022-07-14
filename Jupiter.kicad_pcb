@@ -8078,7 +8078,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 02fc0283-94cc-4968-8bb9-59d84ed6ae91)
-    (at -387.995 212.345 180)
+    (at 151.4 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -8346,7 +8346,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 076fd801-ff4c-44d5-91d5-574da386be2b)
-    (at -286.995 50.745 180)
+    (at 289.6 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -8525,7 +8525,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 0bec4448-52ca-4a96-81af-7599f9315b4c)
-    (at -347.595 50.745 180)
+    (at 161 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -8615,7 +8615,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 0c81f347-4025-4682-99d5-8c90db753292)
-    (at -286.995 30.545 180)
+    (at 77.7 163.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -8794,7 +8794,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 12360181-f0a8-4411-bcaf-1e5f32e42250)
-    (at -347.595 212.345 180)
+    (at 170.5 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -8973,7 +8973,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 1b1b9495-9739-4c92-86e9-6db145b8e0fc)
-    (at -387.995 30.545 180)
+    (at 65.8 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -9241,7 +9241,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 2312fd43-966e-4de5-80f8-93e5293e8e92)
-    (at -266.795 131.545 180)
+    (at 213.4 144.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -9331,7 +9331,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 23dba9ad-f85a-4d4a-a95c-5f6f341ad4d3)
-    (at -327.395 70.945 180)
+    (at 256.2 182.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -9421,7 +9421,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 2407ef83-6049-4618-8073-6108f388c7c9)
-    (at -185.995 30.545 180)
+    (at 137.2 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -9511,7 +9511,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 259fca47-2bec-4649-8c96-538cc4e18322)
-    (at -387.995 151.745 180)
+    (at 141.9 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -9690,7 +9690,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 2da33009-7c29-4753-93e0-c083a1424d5f)
-    (at -307.195 50.745 180)
+    (at 180.1 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -9780,7 +9780,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 2db2a0ce-ff68-4ecd-a164-edfe59c9b8a3)
-    (at -307.195 151.745 180)
+    (at 294.3 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -9870,7 +9870,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 2e90de25-eeeb-46d4-8751-f0c72f883899)
-    (at -246.595 70.945 180)
+    (at 203.8 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -10049,7 +10049,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 3050a7c2-925c-477c-b1f9-265733a89f5a)
-    (at -367.795 151.745 180)
+    (at 306.2 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -10139,7 +10139,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 31581034-7876-47c3-9a4b-2f44a66a74d3)
-    (at -206.195 30.545 180)
+    (at 265.8 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -10318,7 +10318,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 33d8b1cf-c13b-4565-a566-80b3dc34b55c)
-    (at -367.795 171.945 180)
+    (at 146.7 82.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -10408,7 +10408,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 34459839-0011-45e0-940b-b370ecc6dda1)
-    (at -347.595 111.345 180)
+    (at 189.6 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -10498,7 +10498,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 3467fe36-0e71-4213-9ef7-daf770b38dfa)
-    (at -347.595 171.945 180)
+    (at 127.6 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -10677,7 +10677,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 350bdb6d-98da-4bbd-ab4d-09a2b71b5715)
-    (at -367.795 212.345 180)
+    (at 65.7 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -10767,7 +10767,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 373c6b02-9488-4d86-808c-fa9e74b991d1)
-    (at -327.395 30.545 180)
+    (at 232.4 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -11213,7 +11213,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 3c371f9e-b1f2-4e17-9e29-080ef6d2400e)
-    (at -347.595 30.545 180)
+    (at 108.6 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -11303,7 +11303,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 3d30912b-2ccd-49b8-a6e9-b5709acc03ba)
-    (at -286.995 70.945 180)
+    (at 208.6 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -11393,7 +11393,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 3eac1009-ea10-4d04-a323-5d7f53fce937)
-    (at -165.795 10.345 180)
+    (at 108.6 163.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -11490,8 +11490,8 @@
     (property "Sheetname" "")
     (path "/435c9def-7e88-4e45-91fb-a6d7bd559c2b")
     (attr smd)
-    (fp_text reference "LED_minus1" (at 3.8 0) (layer "F.SilkS")
-      (effects (font (size 1 1) (thickness 0.15)) (justify left))
+    (fp_text reference "LED_minus1" (at -4.45 -3.14) (layer "B.SilkS")
+      (effects (font (size 1 1) (thickness 0.15)) (justify left mirror))
       (tstamp b1dfaf1a-97aa-4cc3-978c-9103aa136c61)
     )
     (fp_text value "SK6812MINI-E" (at -9.425 -3.47) (layer "B.Fab") hide
@@ -11662,7 +11662,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 40fb3e55-97ae-4cb6-9ce6-6148849f49b6)
-    (at -367.795 30.545 180)
+    (at 99.1 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -11841,7 +11841,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 4a8873d9-7778-4201-a970-d171a1a3960a)
-    (at -226.395 70.945 180)
+    (at 194.3 144.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -11931,7 +11931,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 4e3963f7-f074-4e05-a171-315da35eab0b)
-    (at -367.795 111.345 180)
+    (at 289.6 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -12021,7 +12021,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 4e64a9e2-5d39-47db-8eb5-a5d71cb0ad0b)
-    (at -246.595 50.745 180)
+    (at 222.9 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -12111,7 +12111,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 4e9fc202-4228-4691-8586-580adc3b37fe)
-    (at -367.795 131.545 180)
+    (at 303.9 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -12201,7 +12201,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 4edda825-8724-4d9c-8ebd-0014d4cda58a)
-    (at -387.995 171.945 180)
+    (at 91.9 182.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -12380,7 +12380,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 5287668c-ae6c-4b0b-adc9-39f3e6ef84be)
-    (at -327.395 131.545 180)
+    (at 294.3 182.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -13093,7 +13093,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 5fd7fb90-40e8-4c0a-8a9a-5c27d575d5dd)
-    (at -266.795 70.945 180)
+    (at 275.2 182.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -13272,7 +13272,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 6102b685-9daf-4585-8a9c-7717a354201c)
-    (at -266.795 111.345 180)
+    (at 122.9 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -13362,7 +13362,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 62c9c66d-501a-408c-a759-3e8819876f29)
-    (at -286.995 10.345 180)
+    (at 199.1 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -13541,7 +13541,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 644fae30-e62f-4981-ae87-4619ea286905)
-    (at -387.995 192.145 180)
+    (at 146.71 163.12 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -13631,7 +13631,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 65577bc7-5569-4c65-8a6a-40b7695b9e8b)
-    (at -367.795 50.745 180)
+    (at 251.5 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -13810,7 +13810,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 676e3092-542b-49e9-ab52-c41113b8df46)
-    (at -327.395 10.345 180)
+    (at 361 144.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -14167,7 +14167,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 6fc2c473-85a4-4178-9089-8b5ff8275710)
-    (at -246.595 10.345 180)
+    (at 361 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -14257,7 +14257,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 71869717-626d-4f0b-a0fd-ab5ab2a10426)
-    (at -347.595 192.145 180)
+    (at 72.9 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -14347,7 +14347,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 71dd63ee-0282-4282-a192-d43e203cab68)
-    (at -266.795 91.145 180)
+    (at 337.2 186.98 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -14437,7 +14437,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 73e0fc14-8e8a-4614-8b96-e4206c5ef008)
-    (at -266.795 30.545 180)
+    (at 132.4 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -15328,7 +15328,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 80ad8f59-50a3-4780-a270-185563cbb699)
-    (at -367.795 10.345 180)
+    (at 94.3 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -15418,7 +15418,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 81fd4242-58b8-4853-b2a4-4ba69ed7c89a)
-    (at -347.595 10.345 180)
+    (at 270.6 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -15953,7 +15953,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 8e42bdff-22e8-4443-963e-c0958d83b047)
-    (at -347.595 70.945 180)
+    (at 237.2 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -16221,7 +16221,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 98e1876c-96c5-47dd-94f1-c263c9802732)
-    (at -327.395 111.345 180)
+    (at 89.5 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -16400,7 +16400,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 9e1a8142-782f-4c66-b712-2d8157120e32)
-    (at -307.195 30.545 180)
+    (at 322.9 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -16490,7 +16490,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp 9edb1c2c-ba62-43d4-9712-885636666652)
-    (at -307.195 111.345 180)
+    (at 170.5 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -16669,7 +16669,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp a3e730b7-13a9-4d08-be59-8907e2fcdd4b)
-    (at -327.395 91.145 180)
+    (at 256.2 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -16759,7 +16759,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp a46802b0-0a4f-4f68-8ec8-9413a9cea9b9)
-    (at -387.995 91.145 180)
+    (at 227.6 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -16938,7 +16938,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp a4bd6894-17c0-468a-a510-8c442c0c6389)
-    (at -327.395 151.745 180)
+    (at 261 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -17117,7 +17117,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp a63fbeb8-a31f-489e-ba35-8d99c8b65987)
-    (at -286.995 151.745 180)
+    (at 246.7 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -17563,7 +17563,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp ad2758b8-cebc-4518-9233-9715ab8ba26e)
-    (at -286.995 111.345 180)
+    (at 113.3 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -17920,7 +17920,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp bf3759b6-9a21-41f1-a881-6454ac1ae8b7)
-    (at -246.595 30.545 180)
+    (at 337.2 167.98 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -18010,7 +18010,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp c031cea4-540e-4216-b184-f0149d8bf7a7)
-    (at -387.995 111.345 180)
+    (at 115.8 182.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -18278,7 +18278,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp c4593796-ccb1-46d7-b4f5-75f3b238392c)
-    (at -307.195 171.945 180)
+    (at 184.8 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -18457,7 +18457,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp c50c948d-0c2d-4080-9778-df8c1204e7c6)
-    (at -347.595 91.145 180)
+    (at 251.5 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -18725,7 +18725,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp c5bed039-677c-44c8-ad5e-ee4e1765e975)
-    (at -367.795 192.145 180)
+    (at 270.6 82.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -18815,7 +18815,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp c62ebe57-7c66-4d25-9098-3f22c6a349f4)
-    (at -347.595 151.745 180)
+    (at 189.6 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -18905,7 +18905,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp c8b4accb-dcb7-4853-b552-c7521d885963)
-    (at -327.395 50.745 180)
+    (at 165.8 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -18995,7 +18995,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp ca8ee14e-8839-46f7-b961-0c096d907c2f)
-    (at -327.395 192.145 180)
+    (at 227.6 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -19174,7 +19174,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp cac9f18c-a473-4649-a05d-7e2a81237993)
-    (at -206.195 50.745 180)
+    (at 187.2 182.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -19264,7 +19264,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp cb86acad-8ed7-413d-a2d5-5d744bd3e334)
-    (at -266.795 50.745 180)
+    (at 361 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -19443,7 +19443,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp d375ffee-752b-45af-b38b-dc963e75980e)
-    (at -367.795 70.945 180)
+    (at 68.1 182.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -19711,7 +19711,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp d8cbf40a-ac34-42ff-afde-bd6071d6ee3b)
-    (at -367.795 91.145 180)
+    (at 218.1 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -19801,7 +19801,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp d8d380a0-cfdc-4722-8443-7082e50352e7)
-    (at -226.395 50.745 180)
+    (at 284.9 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -20336,7 +20336,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp e6df1ce8-290f-4f8c-952b-6f00a004317a)
-    (at -327.395 171.945 180)
+    (at 84.8 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -20604,7 +20604,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp e8b36efd-61d5-44fc-9bc4-92dfee6f3387)
-    (at -387.995 50.745 180)
+    (at 175.3 144.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -20694,7 +20694,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp e8bbc4a9-f749-41ed-82c3-79177f462ac6)
-    (at -226.395 30.545 180)
+    (at 70.5 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -20873,7 +20873,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp eb380959-3630-4aab-bcf1-a2c48c584168)
-    (at -185.995 10.345 180)
+    (at 156.3 144.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21052,7 +21052,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp ebd3d111-6e53-4101-9c4e-66379244d41f)
-    (at -387.995 131.545 180)
+    (at 318.1 186.98 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21142,7 +21142,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp eca9b3f4-fc89-4cda-b8a2-dffc43afec12)
-    (at -286.995 91.145 180)
+    (at 242 163.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21232,7 +21232,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp ed0c97bc-6eb1-49c3-8f65-181110f3e78f)
-    (at -266.795 10.345 180)
+    (at 308.6 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21322,7 +21322,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp ed52a1cb-c79d-4654-8a88-32c4d88ba6ce)
-    (at -226.395 10.345 180)
+    (at 127.8 82.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21412,7 +21412,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp edae8eaf-bab2-4646-96e2-1af53f050fd6)
-    (at -387.995 70.945 180)
+    (at 361 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21502,7 +21502,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp ee5694d5-7eb4-4ea5-85ab-393e5b5f0dd9)
-    (at -246.595 91.145 180)
+    (at 320.6 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21592,7 +21592,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp eee12f37-e7da-4953-bcdc-5167f89b8a72)
-    (at -307.195 91.145 180)
+    (at 356.2 186.98 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -21682,7 +21682,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp eeec12d3-6d31-47f8-9255-26810b2ab9a0)
-    (at -347.595 131.545 180)
+    (at 118.1 144.18 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -22039,7 +22039,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp f2fb102c-8334-4394-a0f2-b86474570f48)
-    (at -286.995 131.545 180)
+    (at 208.6 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -22129,7 +22129,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp f41fd4a9-95cf-422f-af5a-34bb63c46d4c)
-    (at -206.195 10.345 180)
+    (at 332.4 82.28 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -22308,7 +22308,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp f72223dd-f4a4-4a27-9c49-881006f8719d)
-    (at -307.195 131.545 180)
+    (at 327.7 125.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -22398,7 +22398,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp f7be80e9-73b2-4f64-be9d-f1d7a52f8972)
-    (at -307.195 10.345 180)
+    (at 280.01 163.22 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
@@ -22488,7 +22488,7 @@
 
   (footprint "marbastlib-mx:LED_MX_6028R" (layer "B.Cu")
     (tedit 622261E9) (tstamp f7fc557b-9522-4543-88fb-0b37a0120b37)
-    (at -307.195 70.945 180)
+    (at 103.8 106.08 180)
     (descr "Add-on for regular MX-footprints with 6028 reverse mount LED")
     (tags "cherry MX 6028 rearmount rear mount led rgb backlight")
     (property "Sheetfile" "Jupiter.kicad_sch")
