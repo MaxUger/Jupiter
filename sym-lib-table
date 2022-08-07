@@ -3,4 +3,5 @@
   (lib (name "marbastlib-choc")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-choc.kicad_sym")(options "")(descr ""))
   (lib (name "marbastlib-various")(type "KiCad")(uri "${KIPRJMOD}/marbastlib/marbastlib-various.kicad_sym")(options "")(descr ""))
   (lib (name "MX_Alps_Hybrid")(type "Legacy")(uri "${KIPRJMOD}/MX_Alps_Hybrid/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "USB-C-USB-2.0-cache")(type "Legacy")(uri "${KIPRJMOD}/USB-C-Connectors/Kicad/USB-C-USB-2.0/USB-C-USB-2.0-cache.lib")(options "")(descr ""))
 )
