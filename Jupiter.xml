@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Max\Documents\GitHub\Jupiter\Jupiter.kicad_sch</source>
-    <date>8/8/2022 11:40:06 AM</date>
+    <date>8/8/2022 3:18:55 PM</date>
     <tool>Eeschema (6.0.6)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -827,7 +827,7 @@
     </comp>
     <comp ref="D1">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -836,7 +836,7 @@
     </comp>
     <comp ref="D2">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -845,7 +845,7 @@
     </comp>
     <comp ref="D3">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -854,7 +854,7 @@
     </comp>
     <comp ref="D4">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -863,7 +863,7 @@
     </comp>
     <comp ref="D5">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -872,7 +872,7 @@
     </comp>
     <comp ref="D6">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -881,7 +881,7 @@
     </comp>
     <comp ref="D7">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -890,7 +890,7 @@
     </comp>
     <comp ref="D8">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -899,7 +899,7 @@
     </comp>
     <comp ref="D9">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -908,7 +908,7 @@
     </comp>
     <comp ref="D10">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -917,7 +917,7 @@
     </comp>
     <comp ref="D11">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -926,7 +926,7 @@
     </comp>
     <comp ref="D12">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -935,7 +935,7 @@
     </comp>
     <comp ref="D13">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -944,7 +944,7 @@
     </comp>
     <comp ref="D14">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -953,7 +953,7 @@
     </comp>
     <comp ref="D15">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -962,7 +962,7 @@
     </comp>
     <comp ref="D16">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -971,7 +971,7 @@
     </comp>
     <comp ref="D17">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -980,7 +980,7 @@
     </comp>
     <comp ref="D18">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -989,7 +989,7 @@
     </comp>
     <comp ref="D19">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -998,7 +998,7 @@
     </comp>
     <comp ref="D20">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1007,7 +1007,7 @@
     </comp>
     <comp ref="D21">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1016,7 +1016,7 @@
     </comp>
     <comp ref="D22">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1025,7 +1025,7 @@
     </comp>
     <comp ref="D23">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1034,7 +1034,7 @@
     </comp>
     <comp ref="D24">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1043,7 +1043,7 @@
     </comp>
     <comp ref="D25">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1052,7 +1052,7 @@
     </comp>
     <comp ref="D26">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1061,7 +1061,7 @@
     </comp>
     <comp ref="D27">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1070,7 +1070,7 @@
     </comp>
     <comp ref="D28">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1079,7 +1079,7 @@
     </comp>
     <comp ref="D29">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1088,7 +1088,7 @@
     </comp>
     <comp ref="D30">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1097,7 +1097,7 @@
     </comp>
     <comp ref="D31">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1106,7 +1106,7 @@
     </comp>
     <comp ref="D32">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1115,7 +1115,7 @@
     </comp>
     <comp ref="D33">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1124,7 +1124,7 @@
     </comp>
     <comp ref="D34">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1133,7 +1133,7 @@
     </comp>
     <comp ref="D35">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1142,7 +1142,7 @@
     </comp>
     <comp ref="D36">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1151,7 +1151,7 @@
     </comp>
     <comp ref="D37">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1160,7 +1160,7 @@
     </comp>
     <comp ref="D38">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1169,7 +1169,7 @@
     </comp>
     <comp ref="D39">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1178,7 +1178,7 @@
     </comp>
     <comp ref="D40">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1187,7 +1187,7 @@
     </comp>
     <comp ref="D41">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1196,7 +1196,7 @@
     </comp>
     <comp ref="D42">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1205,7 +1205,7 @@
     </comp>
     <comp ref="D43">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1214,7 +1214,7 @@
     </comp>
     <comp ref="D44">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1223,7 +1223,7 @@
     </comp>
     <comp ref="D45">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1232,7 +1232,7 @@
     </comp>
     <comp ref="D46">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1241,7 +1241,7 @@
     </comp>
     <comp ref="D47">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1250,7 +1250,7 @@
     </comp>
     <comp ref="D48">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1259,7 +1259,7 @@
     </comp>
     <comp ref="D49">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1268,7 +1268,7 @@
     </comp>
     <comp ref="D50">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1277,7 +1277,7 @@
     </comp>
     <comp ref="D51">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1286,7 +1286,7 @@
     </comp>
     <comp ref="D52">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1295,7 +1295,7 @@
     </comp>
     <comp ref="D53">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1304,7 +1304,7 @@
     </comp>
     <comp ref="D54">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1313,7 +1313,7 @@
     </comp>
     <comp ref="D55">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1322,7 +1322,7 @@
     </comp>
     <comp ref="D56">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1331,7 +1331,7 @@
     </comp>
     <comp ref="D57">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1340,7 +1340,7 @@
     </comp>
     <comp ref="D58">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1349,7 +1349,7 @@
     </comp>
     <comp ref="D59">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1358,7 +1358,7 @@
     </comp>
     <comp ref="D60">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1367,7 +1367,7 @@
     </comp>
     <comp ref="D61">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1376,7 +1376,7 @@
     </comp>
     <comp ref="D62">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1385,7 +1385,7 @@
     </comp>
     <comp ref="D63">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1394,7 +1394,7 @@
     </comp>
     <comp ref="D64">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1403,7 +1403,7 @@
     </comp>
     <comp ref="D65">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1412,7 +1412,7 @@
     </comp>
     <comp ref="D66">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1421,7 +1421,7 @@
     </comp>
     <comp ref="D67">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1430,7 +1430,7 @@
     </comp>
     <comp ref="D68">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1439,7 +1439,7 @@
     </comp>
     <comp ref="D69">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1448,7 +1448,7 @@
     </comp>
     <comp ref="D70">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1457,7 +1457,7 @@
     </comp>
     <comp ref="D71">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1466,7 +1466,7 @@
     </comp>
     <comp ref="D72">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1475,7 +1475,7 @@
     </comp>
     <comp ref="D73">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1484,7 +1484,7 @@
     </comp>
     <comp ref="D74">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1493,7 +1493,7 @@
     </comp>
     <comp ref="D75">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1502,7 +1502,7 @@
     </comp>
     <comp ref="D76">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1511,7 +1511,7 @@
     </comp>
     <comp ref="D77">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1520,7 +1520,7 @@
     </comp>
     <comp ref="D78">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1529,7 +1529,7 @@
     </comp>
     <comp ref="D79">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1538,7 +1538,7 @@
     </comp>
     <comp ref="D80">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1547,7 +1547,7 @@
     </comp>
     <comp ref="D81">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
@@ -1556,7 +1556,7 @@
     </comp>
     <comp ref="D82">
       <value>D_Small</value>
-      <footprint>Diode_SMD:D_0603_1608Metric</footprint>
+      <footprint>Diode_SMD:D_SOD-123</footprint>
       <libsource lib="Device" part="D_Small" description="Diode, small symbol"/>
       <property name="Sheetname" value=""/>
       <property name="Sheetfile" value="Jupiter.kicad_sch"/>
