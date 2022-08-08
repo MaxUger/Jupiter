@@ -1,4 +1,4 @@
-Designator,Val,Package,Mid X,Mid U,Rotation,Layer
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 C1,22pF,C_0603_1608Metric,-334.651992,-140.348008,-135,bottom
 C2,22pF,C_0603_1608Metric,-340.051992,-145.748008,45,bottom
 C3,1uF,C_0603_1608Metric,-348.551992,-142.751992,-45,bottom
