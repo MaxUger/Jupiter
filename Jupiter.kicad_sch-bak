@@ -2609,7 +2609,7 @@
   (no_connect (at 429.26 328.93) (uuid 1a241195-0c8a-4bd8-b097-03364926c1d3))
   (no_connect (at 443.23 29.21) (uuid a88cb122-7e8f-4647-9ae1-aa661771dd54))
   (no_connect (at 279.4 382.27) (uuid be9ee411-74a7-4071-b83b-f71940f73dac))
-  (no_connect (at 279.4 384.81) (uuid be9ee411-74a7-4071-b83b-f71940f73dad))
+  (no_connect (at 279.4 384.81) (uuid be9ee411-74a7-4071-b83b-f71940f73dac))
 
   (wire (pts (xy 393.7 384.81) (xy 400.05 384.81))
     (stroke (width 0) (type default) (color 0 0 0 0))
