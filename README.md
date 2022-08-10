@@ -3,7 +3,7 @@ A 75% hotswappable keyboard PCB with adressable RGB backlighting
 
 __THIS PCB IS UNTESTED, IT PROBABLY DOES NOT WORK__
 
-![pcb-backSide](https://user-images.githubusercontent.com/26027105/183543830-bac2c7e8-3205-4381-b174-3bab601892dc.PNG)
+![pcb-backSide](https://user-images.githubusercontent.com/26027105/183813856-f6163181-1689-4c1d-b2e2-519ad23f9a0e.PNG)
 
 ## Features
 - 75% Layout
