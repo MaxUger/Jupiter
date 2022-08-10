@@ -33,4 +33,4 @@ __THIS PCB IS UNTESTED, IT PROBABLY DOES NOT WORK__
 
 __REMINDER: THIS PCB IS UNTESTED, IT PROBABLY DOES NOT WORK. THIS PROJECT IS PURELY A TECHNICAL EXERCISE__
 
-__This project falls under the GNU General Public License v3.0. This project is provided without liability, warranty and garentee of functionality.__
+__This project falls under the GNU General Public License v3.0. This project is provided without liability, warranty, and garentee of functionality.__
