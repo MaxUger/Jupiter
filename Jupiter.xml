@@ -2,7 +2,7 @@
 <export version="E">
   <design>
     <source>C:\Users\Max\Documents\GitHub\Jupiter\Jupiter.kicad_sch</source>
-    <date>8/8/2022 3:18:55 PM</date>
+    <date>8/10/2022 12:20:31 AM</date>
     <tool>Eeschema (6.0.6)</tool>
     <sheet number="1" name="/" tstamps="/">
       <title_block>
@@ -3140,7 +3140,7 @@
       <tstamps>5e25d345-8130-4e41-bd8d-fd468aef5828</tstamps>
     </comp>
     <comp ref="Y1">
-      <value>Crystal_GND24_Small</value>
+      <value>16MHz</value>
       <footprint>Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm</footprint>
       <libsource lib="Device" part="Crystal_GND24_Small" description="Four pin crystal, GND on pins 2 and 4, small symbol"/>
       <property name="Sheetname" value=""/>
@@ -3803,8 +3803,10 @@
       <node ref="C9" pin="2" pintype="passive"/>
       <node ref="J1" pin="A1" pinfunction="GND" pintype="power_in"/>
       <node ref="J1" pin="A12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J1" pin="B1" pinfunction="GND" pintype="power_in"/>
       <node ref="J1" pin="B12" pinfunction="GND" pintype="power_in"/>
+      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
       <node ref="J1" pin="S1" pinfunction="SHIELD" pintype="passive"/>
       <node ref="LED_0" pin="4" pinfunction="VSS" pintype="power_in"/>
       <node ref="LED_1" pin="4" pinfunction="VSS" pintype="power_in"/>
@@ -3889,6 +3891,7 @@
       <node ref="LED_upArrow1" pin="4" pinfunction="VSS" pintype="power_in"/>
       <node ref="LED_windows1" pin="4" pinfunction="VSS" pintype="power_in"/>
       <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
       <node ref="R5" pin="2" pintype="passive"/>
       <node ref="R6" pin="2" pintype="passive"/>
       <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
@@ -3898,7 +3901,7 @@
       <node ref="U1" pin="43" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="45" pinfunction="GND" pintype="passive"/>
       <node ref="U1" pin="5" pinfunction="UGND" pintype="passive"/>
-      <node ref="U2" pin="1" pinfunction="GND" pintype="input"/>
+      <node ref="U2" pin="2" pinfunction="IO1" pintype="input"/>
       <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="Y1" pin="4" pinfunction="4" pintype="passive"/>
     </net>
@@ -4248,360 +4251,354 @@
       <node ref="J1" pin="A5" pinfunction="CC1" pintype="bidirectional"/>
       <node ref="R5" pin="1" pintype="passive"/>
     </net>
-    <net code="106" name="Net-(J1-PadA6)">
-      <node ref="J1" pin="A6" pinfunction="D+" pintype="bidirectional"/>
-      <node ref="J1" pin="B6" pinfunction="D+" pintype="bidirectional"/>
-      <node ref="R4" pin="1" pintype="passive"/>
-      <node ref="U2" pin="2" pinfunction="IO1" pintype="input"/>
-    </net>
-    <net code="107" name="Net-(J1-PadA7)">
+    <net code="106" name="Net-(J1-PadA7)">
       <node ref="J1" pin="A7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="J1" pin="B7" pinfunction="D-" pintype="bidirectional"/>
       <node ref="R3" pin="1" pintype="passive"/>
       <node ref="U2" pin="3" pinfunction="IO2" pintype="input"/>
     </net>
-    <net code="108" name="Net-(J1-PadB5)">
+    <net code="107" name="Net-(J1-PadB5)">
       <node ref="J1" pin="B5" pinfunction="CC2" pintype="bidirectional"/>
       <node ref="R6" pin="1" pintype="passive"/>
     </net>
-    <net code="109" name="Net-(LED_0-Pad2)">
+    <net code="108" name="Net-(LED_0-Pad2)">
       <node ref="LED_0" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_9" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="110" name="Net-(LED_0-Pad3)">
+    <net code="109" name="Net-(LED_0-Pad3)">
       <node ref="LED_0" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_minus1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="111" name="Net-(LED_1-Pad2)">
+    <net code="110" name="Net-(LED_1-Pad2)">
       <node ref="LED_1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_tilda1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="112" name="Net-(LED_1-Pad3)">
+    <net code="111" name="Net-(LED_1-Pad3)">
       <node ref="LED_1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_2" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="113" name="Net-(LED_2-Pad3)">
+    <net code="112" name="Net-(LED_2-Pad3)">
       <node ref="LED_2" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_3" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="114" name="Net-(LED_3-Pad3)">
+    <net code="113" name="Net-(LED_3-Pad3)">
       <node ref="LED_3" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_4" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="115" name="Net-(LED_4-Pad3)">
+    <net code="114" name="Net-(LED_4-Pad3)">
       <node ref="LED_4" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_5" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="116" name="Net-(LED_5-Pad3)">
+    <net code="115" name="Net-(LED_5-Pad3)">
       <node ref="LED_5" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_6" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="117" name="Net-(LED_6-Pad3)">
+    <net code="116" name="Net-(LED_6-Pad3)">
       <node ref="LED_6" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_7" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="118" name="Net-(LED_7-Pad3)">
+    <net code="117" name="Net-(LED_7-Pad3)">
       <node ref="LED_7" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_8" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="119" name="Net-(LED_8-Pad3)">
+    <net code="118" name="Net-(LED_8-Pad3)">
       <node ref="LED_8" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_9" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="120" name="Net-(LED_A1-Pad2)">
+    <net code="119" name="Net-(LED_A1-Pad2)">
       <node ref="LED_A1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_capsLock1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="121" name="Net-(LED_A1-Pad3)">
+    <net code="120" name="Net-(LED_A1-Pad3)">
       <node ref="LED_A1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_S1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="122" name="Net-(LED_B1-Pad2)">
+    <net code="121" name="Net-(LED_B1-Pad2)">
       <node ref="LED_B1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_N1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="123" name="Net-(LED_B1-Pad3)">
+    <net code="122" name="Net-(LED_B1-Pad3)">
       <node ref="LED_B1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_V1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="124" name="Net-(LED_C1-Pad2)">
+    <net code="123" name="Net-(LED_C1-Pad2)">
       <node ref="LED_C1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_V1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="125" name="Net-(LED_C1-Pad3)">
+    <net code="124" name="Net-(LED_C1-Pad3)">
       <node ref="LED_C1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_X1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="126" name="Net-(LED_D1-Pad2)">
+    <net code="125" name="Net-(LED_D1-Pad2)">
       <node ref="LED_D1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_S1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="127" name="Net-(LED_D1-Pad3)">
+    <net code="126" name="Net-(LED_D1-Pad3)">
       <node ref="LED_D1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_F13" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="128" name="Net-(LED_E1-Pad2)">
+    <net code="127" name="Net-(LED_E1-Pad2)">
       <node ref="LED_E1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_R1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="129" name="Net-(LED_E1-Pad3)">
+    <net code="128" name="Net-(LED_E1-Pad3)">
       <node ref="LED_E1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_W1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="130" name="Net-(LED_F1-Pad2)">
+    <net code="129" name="Net-(LED_F1-Pad2)">
       <node ref="LED_F1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F2" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="131" name="Net-(LED_F1-Pad3)">
+    <net code="130" name="Net-(LED_F1-Pad3)">
       <node ref="LED_F1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_esc1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="132" name="Net-(LED_F2-Pad2)">
+    <net code="131" name="Net-(LED_F2-Pad2)">
       <node ref="LED_F2" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F3" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="133" name="Net-(LED_F3-Pad2)">
+    <net code="132" name="Net-(LED_F3-Pad2)">
       <node ref="LED_F3" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F4" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="134" name="Net-(LED_F4-Pad2)">
+    <net code="133" name="Net-(LED_F4-Pad2)">
       <node ref="LED_F4" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F5" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="135" name="Net-(LED_F5-Pad2)">
+    <net code="134" name="Net-(LED_F5-Pad2)">
       <node ref="LED_F5" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F6" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="136" name="Net-(LED_F6-Pad2)">
+    <net code="135" name="Net-(LED_F6-Pad2)">
       <node ref="LED_F6" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F7" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="137" name="Net-(LED_F7-Pad2)">
+    <net code="136" name="Net-(LED_F7-Pad2)">
       <node ref="LED_F7" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F8" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="138" name="Net-(LED_F8-Pad2)">
+    <net code="137" name="Net-(LED_F8-Pad2)">
       <node ref="LED_F8" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F9" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="139" name="Net-(LED_F10-Pad2)">
+    <net code="138" name="Net-(LED_F10-Pad2)">
       <node ref="LED_F10" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F11" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="140" name="Net-(LED_F10-Pad3)">
+    <net code="139" name="Net-(LED_F10-Pad3)">
       <node ref="LED_F10" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_F9" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="141" name="Net-(LED_F11-Pad2)">
+    <net code="140" name="Net-(LED_F11-Pad2)">
       <node ref="LED_F11" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_F12" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="142" name="Net-(LED_F12-Pad2)">
+    <net code="141" name="Net-(LED_F12-Pad2)">
       <node ref="LED_F12" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_delete1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="143" name="Net-(LED_F13-Pad3)">
+    <net code="142" name="Net-(LED_F13-Pad3)">
       <node ref="LED_F13" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_G1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="144" name="Net-(LED_G1-Pad3)">
+    <net code="143" name="Net-(LED_G1-Pad3)">
       <node ref="LED_G1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_H1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="145" name="Net-(LED_H1-Pad3)">
+    <net code="144" name="Net-(LED_H1-Pad3)">
       <node ref="LED_H1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_J1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="146" name="Net-(LED_I1-Pad2)">
+    <net code="145" name="Net-(LED_I1-Pad2)">
       <node ref="LED_I1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_O1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="147" name="Net-(LED_I1-Pad3)">
+    <net code="146" name="Net-(LED_I1-Pad3)">
       <node ref="LED_I1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_U1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="148" name="Net-(LED_J1-Pad3)">
+    <net code="147" name="Net-(LED_J1-Pad3)">
       <node ref="LED_J1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_K1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="149" name="Net-(LED_K1-Pad3)">
+    <net code="148" name="Net-(LED_K1-Pad3)">
       <node ref="LED_K1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_L1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="150" name="Net-(LED_L1-Pad3)">
+    <net code="149" name="Net-(LED_L1-Pad3)">
       <node ref="LED_L1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_colon1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="151" name="Net-(LED_M1-Pad2)">
+    <net code="150" name="Net-(LED_M1-Pad2)">
       <node ref="LED_M1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_comma1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="152" name="Net-(LED_M1-Pad3)">
+    <net code="151" name="Net-(LED_M1-Pad3)">
       <node ref="LED_M1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_N1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="153" name="Net-(LED_O1-Pad2)">
+    <net code="152" name="Net-(LED_O1-Pad2)">
       <node ref="LED_O1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_P1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="154" name="Net-(LED_P1-Pad2)">
+    <net code="153" name="Net-(LED_P1-Pad2)">
       <node ref="LED_P1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_openBracket1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="155" name="Net-(LED_Q1-Pad2)">
+    <net code="154" name="Net-(LED_Q1-Pad2)">
       <node ref="LED_Q1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_W1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="156" name="Net-(LED_Q1-Pad3)">
+    <net code="155" name="Net-(LED_Q1-Pad3)">
       <node ref="LED_Q1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_tab1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="157" name="Net-(LED_R1-Pad2)">
+    <net code="156" name="Net-(LED_R1-Pad2)">
       <node ref="LED_R1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_T1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="158" name="Net-(LED_T1-Pad2)">
+    <net code="157" name="Net-(LED_T1-Pad2)">
       <node ref="LED_T1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_Y1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="159" name="Net-(LED_U1-Pad3)">
+    <net code="158" name="Net-(LED_U1-Pad3)">
       <node ref="LED_U1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_Y1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="160" name="Net-(LED_X1-Pad3)">
+    <net code="159" name="Net-(LED_X1-Pad3)">
       <node ref="LED_X1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_Z1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="161" name="Net-(LED_Z1-Pad3)">
+    <net code="160" name="Net-(LED_Z1-Pad3)">
       <node ref="LED_Z1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_leftShift1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="162" name="Net-(LED_backslash1-Pad2)">
+    <net code="161" name="Net-(LED_backslash1-Pad2)">
       <node ref="LED_backslash1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_backspace1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="163" name="Net-(LED_backslash1-Pad3)">
+    <net code="162" name="Net-(LED_backslash1-Pad3)">
       <node ref="LED_backslash1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_closeBracket1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="164" name="Net-(LED_backspace1-Pad2)">
+    <net code="163" name="Net-(LED_backspace1-Pad2)">
       <node ref="LED_backspace1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_equals1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="165" name="Net-(LED_capsLock1-Pad2)">
+    <net code="164" name="Net-(LED_capsLock1-Pad2)">
       <node ref="LED_capsLock1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_tab1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="166" name="Net-(LED_closeBracket1-Pad3)">
+    <net code="165" name="Net-(LED_closeBracket1-Pad3)">
       <node ref="LED_closeBracket1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_openBracket1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="167" name="Net-(LED_colon1-Pad3)">
+    <net code="166" name="Net-(LED_colon1-Pad3)">
       <node ref="LED_colon1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_quote1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="168" name="Net-(LED_comma1-Pad2)">
+    <net code="167" name="Net-(LED_comma1-Pad2)">
       <node ref="LED_comma1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_period1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="169" name="Net-(LED_downArrow1-Pad2)">
+    <net code="168" name="Net-(LED_downArrow1-Pad2)">
       <node ref="LED_downArrow1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_leftArrow1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="170" name="Net-(LED_downArrow1-Pad3)">
+    <net code="169" name="Net-(LED_downArrow1-Pad3)">
       <node ref="LED_downArrow1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_rightArrow1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="171" name="Net-(LED_end1-Pad2)">
+    <net code="170" name="Net-(LED_end1-Pad2)">
       <node ref="LED_end1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_rightArrow1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="172" name="Net-(LED_end1-Pad3)">
+    <net code="171" name="Net-(LED_end1-Pad3)">
       <node ref="LED_end1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_pgDn1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="173" name="Net-(LED_enter1-Pad2)">
+    <net code="172" name="Net-(LED_enter1-Pad2)">
       <node ref="LED_enter1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_quote1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="174" name="Net-(LED_enter1-Pad3)">
+    <net code="173" name="Net-(LED_enter1-Pad3)">
       <node ref="LED_enter1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_upArrow1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="175" name="Net-(LED_equals1-Pad2)">
+    <net code="174" name="Net-(LED_equals1-Pad2)">
       <node ref="LED_equals1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_minus1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="176" name="Net-(LED_esc1-Pad3)">
+    <net code="175" name="Net-(LED_esc1-Pad3)">
       <node ref="LED_esc1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_tilda1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="177" name="Net-(LED_function1-Pad2)">
+    <net code="176" name="Net-(LED_function1-Pad2)">
       <node ref="LED_function1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_rightAlt1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="178" name="Net-(LED_function1-Pad3)">
+    <net code="177" name="Net-(LED_function1-Pad3)">
       <node ref="LED_function1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_rightControl1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="179" name="Net-(LED_home1-Pad2)">
+    <net code="178" name="Net-(LED_home1-Pad2)">
       <node ref="LED_home1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_pgUp1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="180" name="Net-(LED_leftAlt1-Pad2)">
+    <net code="179" name="Net-(LED_leftAlt1-Pad2)">
       <node ref="LED_leftAlt1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_windows1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="181" name="Net-(LED_leftAlt1-Pad3)">
+    <net code="180" name="Net-(LED_leftAlt1-Pad3)">
       <node ref="LED_leftAlt1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_space1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="182" name="Net-(LED_leftArrow1-Pad2)">
+    <net code="181" name="Net-(LED_leftArrow1-Pad2)">
       <node ref="LED_leftArrow1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_rightControl1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="183" name="Net-(LED_leftControl1-Pad2)">
+    <net code="182" name="Net-(LED_leftControl1-Pad2)">
       <node ref="LED_leftControl1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_leftShift1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="184" name="Net-(LED_leftControl1-Pad3)">
+    <net code="183" name="Net-(LED_leftControl1-Pad3)">
       <node ref="LED_leftControl1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_windows1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="185" name="Net-(LED_period1-Pad2)">
+    <net code="184" name="Net-(LED_period1-Pad2)">
       <node ref="LED_period1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_questionMark1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="186" name="Net-(LED_pgDn1-Pad3)">
+    <net code="185" name="Net-(LED_pgDn1-Pad3)">
       <node ref="LED_pgDn1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="LED_pgUp1" pin="2" pinfunction="DOUT" pintype="output"/>
     </net>
-    <net code="187" name="Net-(LED_questionMark1-Pad2)">
+    <net code="186" name="Net-(LED_questionMark1-Pad2)">
       <node ref="LED_questionMark1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_rightShift1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="188" name="Net-(LED_rightAlt1-Pad2)">
+    <net code="187" name="Net-(LED_rightAlt1-Pad2)">
       <node ref="LED_rightAlt1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_space1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="189" name="Net-(LED_rightShift1-Pad2)">
+    <net code="188" name="Net-(LED_rightShift1-Pad2)">
       <node ref="LED_rightShift1" pin="2" pinfunction="DOUT" pintype="output"/>
       <node ref="LED_upArrow1" pin="3" pinfunction="DIN" pintype="input"/>
     </net>
-    <net code="190" name="Net-(R1-Pad2)">
+    <net code="189" name="Net-(R1-Pad2)">
       <node ref="R1" pin="2" pintype="passive"/>
       <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
       <node ref="U1" pin="13" pinfunction="~{RESET}" pintype="input"/>
     </net>
-    <net code="191" name="Net-(R2-Pad1)">
+    <net code="190" name="Net-(R2-Pad1)">
       <node ref="R2" pin="1" pintype="passive"/>
       <node ref="U1" pin="33" pinfunction="~{HWB}/PE2" pintype="bidirectional"/>
     </net>
-    <net code="192" name="RGBLED">
+    <net code="191" name="RGBLED">
       <node ref="LED_home1" pin="3" pinfunction="DIN" pintype="input"/>
       <node ref="U1" pin="9" pinfunction="PB1" pintype="bidirectional"/>
     </net>
-    <net code="193" name="ROW0">
+    <net code="192" name="ROW0">
       <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
@@ -4618,7 +4615,7 @@
       <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="41" pinfunction="PF0" pintype="bidirectional"/>
     </net>
-    <net code="194" name="ROW1">
+    <net code="193" name="ROW1">
       <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
@@ -4636,7 +4633,7 @@
       <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="39" pinfunction="PF4" pintype="bidirectional"/>
     </net>
-    <net code="195" name="ROW2">
+    <net code="194" name="ROW2">
       <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
@@ -4654,7 +4651,7 @@
       <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="20" pinfunction="PD2" pintype="bidirectional"/>
     </net>
-    <net code="196" name="ROW3">
+    <net code="195" name="ROW3">
       <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
@@ -4671,7 +4668,7 @@
       <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="19" pinfunction="PD1" pintype="bidirectional"/>
     </net>
-    <net code="197" name="ROW4">
+    <net code="196" name="ROW4">
       <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
@@ -4688,7 +4685,7 @@
       <node ref="D72" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="11" pinfunction="PB3" pintype="bidirectional"/>
     </net>
-    <net code="198" name="ROW5">
+    <net code="197" name="ROW5">
       <node ref="D73" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D74" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="D75" pin="1" pinfunction="K" pintype="passive"/>
@@ -4701,7 +4698,7 @@
       <node ref="D82" pin="1" pinfunction="K" pintype="passive"/>
       <node ref="U1" pin="12" pinfunction="PB7" pintype="bidirectional"/>
     </net>
-    <net code="199" name="VBUS">
+    <net code="198" name="VBUS">
       <node ref="F1" pin="1" pintype="passive"/>
       <node ref="J1" pin="A4" pinfunction="VBUS" pintype="power_in"/>
       <node ref="J1" pin="A9" pinfunction="VBUS" pintype="power_in"/>
@@ -4709,26 +4706,29 @@
       <node ref="J1" pin="B9" pinfunction="VBUS" pintype="power_in"/>
       <node ref="U2" pin="4" pinfunction="VCC" pintype="input"/>
     </net>
-    <net code="200" name="unconnected-(J1-PadA8)">
+    <net code="199" name="unconnected-(J1-PadA8)">
       <node ref="J1" pin="A8" pinfunction="SBU1" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="201" name="unconnected-(J1-PadB8)">
+    <net code="200" name="unconnected-(J1-PadB8)">
       <node ref="J1" pin="B8" pinfunction="SBU2" pintype="bidirectional+no_connect"/>
     </net>
-    <net code="202" name="unconnected-(LED_delete1-Pad2)">
+    <net code="201" name="unconnected-(LED_delete1-Pad2)">
       <node ref="LED_delete1" pin="2" pinfunction="DOUT" pintype="output+no_connect"/>
     </net>
-    <net code="203" name="unconnected-(U1-Pad1)">
+    <net code="202" name="unconnected-(U1-Pad1)">
       <node ref="U1" pin="1" pinfunction="PE6" pintype="bidirectional"/>
     </net>
-    <net code="204" name="unconnected-(U1-Pad8)">
+    <net code="203" name="unconnected-(U1-Pad8)">
       <node ref="U1" pin="8" pinfunction="PB0" pintype="bidirectional"/>
     </net>
-    <net code="205" name="unconnected-(U1-Pad18)">
+    <net code="204" name="unconnected-(U1-Pad18)">
       <node ref="U1" pin="18" pinfunction="PD0" pintype="bidirectional"/>
     </net>
-    <net code="206" name="unconnected-(U1-Pad42)">
+    <net code="205" name="unconnected-(U1-Pad42)">
       <node ref="U1" pin="42" pinfunction="AREF" pintype="passive+no_connect"/>
+    </net>
+    <net code="206" name="unconnected-(U2-Pad1)">
+      <node ref="U2" pin="1" pinfunction="GND" pintype="input"/>
     </net>
   </nets>
 </export>

@@ -16,4 +16,4 @@ Comment,Designator,Footprint,LCSC
 "SW_Push","SW1","random-keyboard-parts:SKQG-1155865",""
 "ATmega32U4-M","U1","Package_DFN_QFN:QFN-44-1EP_7x7mm_P0.5mm_EP5.2x5.2mm",""
 "PRTR5V0U2X","U2","random-keyboard-parts:SOT143B",""
-"Crystal_GND24_Small","Y1","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm",""
+"16MHz","Y1","Crystal:Crystal_SMD_3225-4Pin_3.2x2.5mm",""

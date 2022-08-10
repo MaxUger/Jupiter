@@ -9412,6 +9412,11 @@
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
     )
+    (model "${KICAD6_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
   )
 
   (footprint "Diode_SMD:D_SOD-123" (layer "B.Cu")
@@ -14155,6 +14160,11 @@
     (pad "4" smd rect locked (at 1 0.95 270) (size 0.6 0.7) (layers "B.Cu" "B.Paste" "B.Mask")
       (net 152 "VBUS") (pinfunction "VCC") (pintype "input") (tstamp c8b06433-e68b-4229-a77a-e43c6f578e40))
     (model "${KISYS3DMOD}/Package_TO_SOT_SMD.3dshapes/SOT-143.step"
+      (offset (xyz 0 0 0))
+      (scale (xyz 1 1 1))
+      (rotate (xyz 0 0 0))
+    )
+    (model "${KICAD6_3DMODEL_DIR}/Package_TO_SOT_SMD.3dshapes/SOT-143.step"
       (offset (xyz 0 0 0))
       (scale (xyz 1 1 1))
       (rotate (xyz 0 0 0))
@@ -24793,6 +24803,9 @@
   (gr_line (start 366.2 67.6) (end 359.255001 67.5675) (layer "Edge.Cuts") (width 0.1) (tstamp db644872-7213-4d0e-8f1f-1447103cf651))
   (gr_line (start 366.060859 191.418837) (end 60.481213 191.458638) (layer "Edge.Cuts") (width 0.1) (tstamp ed79b2aa-d9fe-46ac-aa23-13ee45a545f3))
   (gr_line (start 370.50005 72.097779) (end 370.558638 187.118787) (layer "Edge.Cuts") (width 0.1) (tstamp fe4ef6cb-f7b0-43fe-ac9f-c18dc41d8c61))
+  (gr_text "Max Uger" (at 71 187.9) (layer "B.SilkS") (tstamp 12766847-7e90-4868-987a-993ecd1d9535)
+    (effects (font (size 2 2) (thickness 0.2)) (justify mirror))
+  )
   (gr_text "Jupiter" (at 112.1 89) (layer "B.SilkS") (tstamp ac692213-5ada-4448-b9f5-f60526da53df)
     (effects (font (size 6 6) (thickness 0.5)) (justify mirror))
   )
@@ -24804,6 +24817,9 @@
   )
   (gr_text "Keyboard PCB Rev 1.0 7/8/2022" (at 114 91.4) (layer "F.SilkS") (tstamp 3dc79b46-7b5b-4f3c-b3f1-59345535a298)
     (effects (font (size 1 1) (thickness 0.15)))
+  )
+  (gr_text "Max Uger" (at 70.7 187.9) (layer "F.SilkS") (tstamp bbe0b46a-a1e0-4363-9f5f-2db18c992214)
+    (effects (font (size 2 2) (thickness 0.2)))
   )
 
   (segment (start 343.7 79.6) (end 343.7 84.7) (width 0.25) (layer "F.Cu") (net 1) (tstamp 326d0b95-c26d-4daa-aefa-79deb14dcc73))
